@@ -1,6 +1,4 @@
-use std::io::{stdin, stdout, BufWriter};
-
-use ferris_says::say;
+use std::io::stdin;
 
 fn main() {
     println!("Guess the number!");
